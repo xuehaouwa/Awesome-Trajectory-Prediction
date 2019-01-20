@@ -12,9 +12,9 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 ## Papers
 #### RNN Related
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, 2018, [code](https://github.com/locuslab/TCN)
-
 - When will you do what? - Anticipating Temporal Occurrences of Activities, 2018 CVPR,   [code]( https://github.com/yabufarha/anticipating-activities)
 - Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN, 2018 CVPR, [code](https://github.com/batzner/indrnn), [keras-code](https://github.com/titu1994/Keras-IndRNN), [pytorch code](https://github.com/StefOe/indrnn-pytorch/blob/master/indrnn.py)
+- Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts, 2016 AAAI
 
 
 
@@ -32,6 +32,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, 2017 arxiv, [[Paper]](https://arxiv.org/pdf/1702.05552.pdf) 
 - Forecasting Interactive Dynamics of Pedestrians with Fictitious Play, 2017 CVPR, [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf)
 - Social LSTM: Human Trajectory Prediction in Crowded Spaces, 2016 CVPR, [[Paper]](http://cvgl.stanford.edu/papers/CVPR16_Social_LSTM.pdf)
+- STF-RNN: Space Time Features-based Recurrent Neural Network for predicting People Next Location, 2016 SSCI, [Keras-Code](https://github.com/mhjabreel/STF-RNN)
 
 
 
