@@ -20,6 +20,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- Pedestrian Trajectory Prediction in Extremely Crowded Scenarios, 2019 Sensors (journal), [Paper](file:///home/ubuntu/Downloads/sensors-19-01223.pdf)
 - SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction, 2019 CVPR, [Paper](https://arxiv.org/pdf/1903.02793.pdf)
 - Depth Information Guided Crowd Counting for Complex Crowd Scenes, 2018
 - Tracking by Prediction: A Deep Generative Model for Mutli-Person Localisation and Tracking, 2018 WACV
