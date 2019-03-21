@@ -42,7 +42,8 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 ####Vehicle Trajectory Prediction
 
-
+- Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, 2019 CVPR, [Paper](https://arxiv.org/pdf/1812.09395.pdf)
+- 
 
 
 ## Datasets
