@@ -21,6 +21,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 #### Trajectory Prediction Related
 
 - Pedestrian Trajectory Prediction in Extremely Crowded Scenarios, 2019 Sensors (journal), [Paper](https://www.mdpi.com/1424-8220/19/5/1223/pdf)
+- The Simpler the Better: Constant Velocity for Pedestrian Motion Prediction, 2019, [Paper](https://arxiv.org/pdf/1903.07933.pdf)
 - SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction, 2019 CVPR, [Paper](https://arxiv.org/pdf/1903.02793.pdf)
 - Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model, 2019 Computer Vision Winter Workshop (CVWW), [Paper](https://arxiv.org/pdf/1902.05437.pdf)
 - Depth Information Guided Crowd Counting for Complex Crowd Scenes, 2018
@@ -39,8 +40,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 
-
-####Vehicle Trajectory Prediction
+#### Vehicle Trajectory Prediction
 
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, 2019 CVPR, [Paper](https://arxiv.org/pdf/1812.09395.pdf)
 - 
