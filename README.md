@@ -14,7 +14,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, 2018, [code](https://github.com/locuslab/TCN)
 - When will you do what? - Anticipating Temporal Occurrences of Activities, 2018 CVPR,   [code]( https://github.com/yabufarha/anticipating-activities)
 - Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN, 2018 CVPR, [code](https://github.com/batzner/indrnn), [keras-code](https://github.com/titu1994/Keras-IndRNN), [pytorch code](https://github.com/StefOe/indrnn-pytorch/blob/master/indrnn.py)
-- Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts, 2016 AAAI
+- Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts, 2016 AAAI [code](https://github.com/yongqyu/STRNN)
 
 
 
