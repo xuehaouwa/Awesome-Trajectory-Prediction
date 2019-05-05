@@ -47,10 +47,14 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 #### Vehicle Trajectory Prediction
 
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, 2019 CVPR, [Paper](https://arxiv.org/pdf/1812.09395.pdf)
-- 
+- ​
 
+#### Traffic Prediction
+
+- Deep Sequence Learning with Auxiliary Information for Traffic Prediction, 2018 KDD, [Paper](https://arxiv.org/pdf/1806.07380.pdf), [Code](https://github.com/JingqingZ/BaiduTraffic)
 
 ## Datasets
+
 * [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)
 * [ETH](http://www.vision.ee.ethz.ch/en/datasets/)
 * [New York Grand Central](http://www.ee.cuhk.edu.hk/en-gb/~syi/cvpr2015_dataset_pedestrianWalkingPath.pdf) (404)
