@@ -21,7 +21,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 #### Trajectory Prediction Related
 
 - Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories
-  with GANs, 2019 CVPR Workshops, [Paper](<https://arxiv.org/pdf/1904.09507.pdf>)
+  with GANs, 2019 CVPR Workshops, [Paper](<https://arxiv.org/pdf/1904.09507.pdf>), [Code](<https://github.com/amiryanj/socialways>)
 - Move, Attend and Predict: Anattention-based neural model for people’s movement prediction, 2018 Pattern Recognition Letters, [Paper](https://reader.elsevier.com/reader/sd/pii/S016786551830182X?token=1EF2B664B70D2B0C3ECDD07B6D8B664F5113AEA7533CE5F0B564EF9F4EE90D3CC228CDEB348F79FEB4E8CDCD74D4BA31)
 - Group LSTM: Group Trajectory Prediction in Crowded Scenarios, 2018 ECCV Workshop, [Paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Bisagno_Group_LSTM_Group_Trajectory_Prediction_in_Crowded_Scenarios_ECCVW_2018_paper.pdf)
 - Pedestrian Trajectory Prediction in Extremely Crowded Scenarios, 2019 Sensors (journal), [Paper](https://www.mdpi.com/1424-8220/19/5/1223/pdf)
