@@ -22,7 +22,10 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 - Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories
   with GANs, 2019 CVPR Workshops, [Paper](<https://arxiv.org/pdf/1904.09507.pdf>), [Code](<https://github.com/amiryanj/socialways>)
+- Peeking into the Future: Predicting Future Person Activities and Locations in Videos, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf>), [Code](https://github.com/google/next-prediction)
 - TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>)
+- Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>)
+- Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.pdf>)
 - SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>)
 - Multi-Agent Tensor Fusion for Contextual Trajectory Prediction, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>)
 - Move, Attend and Predict: Anattention-based neural model for people’s movement prediction, 2018 Pattern Recognition Letters, [Paper](https://reader.elsevier.com/reader/sd/pii/S016786551830182X?token=1EF2B664B70D2B0C3ECDD07B6D8B664F5113AEA7533CE5F0B564EF9F4EE90D3CC228CDEB348F79FEB4E8CDCD74D4BA31)
@@ -50,7 +53,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 #### Vehicle Trajectory Prediction
 
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, 2019 CVPR, [Paper](https://arxiv.org/pdf/1812.09395.pdf)
-- 
+- Argoverse: 3D Tracking and Forecasting With Rich Maps, 2019 CVPR, [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
 
 #### Traffic Prediction
 
