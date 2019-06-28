@@ -1,5 +1,5 @@
 # Awesome-Trajectory-Prediction
-![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![Last Updated](https://img.shields.io/badge/Last Updated-2019.06.28-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
+![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.06.28-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
 
 This is a list of useful information about trajectory prediction. Related papers, datasets and codes are included.
 
