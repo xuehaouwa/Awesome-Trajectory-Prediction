@@ -21,8 +21,9 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 #### Trajectory Prediction Related
 
 - Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories
-  with GANs, 2019 CVPR Workshops, [Paper](<https://arxiv.org/pdf/1904.09507.pdf>), [Code](<https://github.com/amiryanj/socialways>)
-- Peeking into the Future: Predicting Future Person Activities and Locations in Videos, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf>), [Code](https://github.com/google/next-prediction)
+  with GANs, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf), [Code](<https://github.com/amiryanj/socialways>)
+- Peeking into the Future: Predicting Future Person Activities and Locations in Videos, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf>), [Code](https://github.com/google/next-prediction)
+- Learning to Infer Relations for Future Trajectory Forecast, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)
 - TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>)
 - Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>)
 - Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.pdf>)
@@ -54,6 +55,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, 2019 CVPR, [Paper](https://arxiv.org/pdf/1812.09395.pdf)
 - Argoverse: 3D Tracking and Forecasting With Rich Maps, 2019 CVPR, [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
+- Robust Aleatoric Modeling for Future Vehicle Localization, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Hudnell_Robust_Aleatoric_Modeling_for_Future_Vehicle_Localization_CVPRW_2019_paper.pdf)
 
 #### Traffic Prediction
 
