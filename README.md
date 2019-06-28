@@ -1,5 +1,5 @@
 # Awesome-Trajectory-Prediction
-![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
+![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![Last Updated](https://img.shields.io/badge/Last Updated-2019.06.28-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
 
 This is a list of useful information about trajectory prediction. Related papers, datasets and codes are included.
 
@@ -20,6 +20,9 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- Path predictions using object attributes and semantic environment, 2019 VISIGRAPP, [Paper](http://mprg.jp/data/MPRG/C_group/C20190225_minoura.pdf)
+- Probabilistic Path Planning using Obstacle Trajectory Prediction, 2019 [CoDS-COMAD '19](http://cods-comad.in/2019/index.html), [Paper]([http://delivery.acm.org/10.1145/3300000/3297006/p36-Todi.pdf?ip=130.95.80.104&id=3297006&acc=ACTIVE%20SERVICE&key=65D80644F295BC0D%2E05ACB6DAA5D75F76%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1561686095_7d9dc140e9495f3ab87af8b6520a312b](http://delivery.acm.org/10.1145/3300000/3297006/p36-Todi.pdf?ip=130.95.80.104&id=3297006&acc=ACTIVE SERVICE&key=65D80644F295BC0D.05ACB6DAA5D75F76.4D4702B0C3E38B35.4D4702B0C3E38B35&__acm__=1561686095_7d9dc140e9495f3ab87af8b6520a312b))
+- Human Trajectory Prediction using Adversarial Loss, 2019 (from Alahi, conference unknown for now), [Paper](http://www.strc.ch/2019/Kothari_Alahi.pdf)
 - Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories
   with GANs, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf), [Code](<https://github.com/amiryanj/socialways>)
 - Peeking into the Future: Predicting Future Person Activities and Locations in Videos, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf>), [Code](https://github.com/google/next-prediction)
@@ -36,6 +39,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 - SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction, 2019 CVPR, [Paper](https://arxiv.org/pdf/1903.02793.pdf)
 - Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model, 2019 Computer Vision Winter Workshop (CVWW), [Paper](https://arxiv.org/pdf/1902.05437.pdf)
 - Depth Information Guided Crowd Counting for Complex Crowd Scenes, 2018
+- GD-GAN: Generative Adversarial Networks for Trajectory Prediction and Group Detection in Crowds, 2018 ACCV, [Paper](https://arxiv.org/pdf/1812.07667.pdf), [Demo](https://www.youtube.com/watch?v=7cCIC_JIfms)
 - Tracking by Prediction: A Deep Generative Model for Mutli-Person Localisation and Tracking, 2018 WACV
 - “Seeing is Believing”: Pedestrian Trajectory Forecasting Using Visual Frustum of Attention, 2018 WACV
 - Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, 2018 CVPR, [code](https://github.com/agrimgupta92/sgan)
