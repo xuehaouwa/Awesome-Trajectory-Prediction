@@ -78,9 +78,6 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 
-## Plans
-
-As you may all know, more and more people start to do projects related to the trajectory prediction. So, I plan to add some tools and helping functions (for trajectory processing, trajectory augmentation and evaluation ...) to support the community.  Welcome any Pull Requests and ideas.
 
 
 
