@@ -1,5 +1,5 @@
 # Awesome-Trajectory-Prediction
-![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.06.28-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
+![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.08.09-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
 
 This is a list of useful information about trajectory prediction. Related papers, datasets and codes are included.
 
@@ -46,6 +46,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 - Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty, 2018 CVPR, [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf), [code+data](https://github.com/apratimbhattacharyya18/onboard_long_term_prediction)
 - Encoding Crowd Interaction with Deep Neural Network
   for Pedestrian Trajectory Prediction, 2018 CVPR, [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf), [code](https://github.com/ShanghaiTechCVDL/CIDNN)
+- Bi-prediction: pedestrian trajectory prediction based on bidirectional LSTM classification, 2017 DICTA, [Paper](<https://www.researchgate.net/profile/Du_Huynh/publication/322001876_Bi-Prediction_Pedestrian_Trajectory_Prediction_Based_on_Bidirectional_LSTM_Classification/links/5c03cef4a6fdcc1b8d5029bb/Bi-Prediction-Pedestrian-Trajectory-Prediction-Based-on-Bidirectional-LSTM-Classification.pdf>)
 - Human Trajectory Prediction using Spatially aware Deep Attention Models, 2017 arxiv, [[Paper]](https://arxiv.org/pdf/1705.09436.pdf)
 - Context-Aware Trajectory Prediction, 2017 arxiv, [[Paper]](https://arxiv.org/pdf/1705.02503.pdf)
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, 2017 arxiv, [[Paper]](https://arxiv.org/pdf/1702.05552.pdf) 
