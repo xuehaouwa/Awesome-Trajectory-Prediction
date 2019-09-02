@@ -1,5 +1,5 @@
 # Awesome-Trajectory-Prediction
-![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.08.09-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
+![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.09.02-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
 
 This is a list of useful information about trajectory prediction. Related papers, datasets and codes are included.
 
@@ -20,6 +20,11 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM, 2019 ISVC, [Paper](https://arxiv.org/pdf/1908.08908.pdf)
+- SEABIG: A Deep Learning-Based Method for Location Prediction in Pedestrian Semantic Trajectories, 2019 IEEE Access, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8790746)
+- Trajectory Prediction of Mobile Construction Resources Toward Pro-active Struck-by Hazard Detection, 2019 ISARC, [Paper](https://search.proquest.com/openview/f6b42779cd7037405799f86f8ca9e544/1?pq-origsite=gscholar&cbl=1646340&casa_token=KxabXy5827MAAAAA:Kv6jfuGvLfpCRhZb1YlzEB0pgpSFJQPKAG8yEcLUwZk4yVjYWn1iCKR1uesqbnH76XJj6smFh5Q)
+- A novel model based on deep learning for Pedestrian detection and Trajectory prediction, 2019 ITAIC, [Paper](https://ieeexplore.ieee.org/abstract/document/8785741)
+- Pedestrian Trajectory Prediction Using a Social Pyramid, 2019 PRICAI
 - Path predictions using object attributes and semantic environment, 2019 VISIGRAPP, [Paper](http://mprg.jp/data/MPRG/C_group/C20190225_minoura.pdf)
 - Probabilistic Path Planning using Obstacle Trajectory Prediction, 2019 [CoDS-COMAD '19](http://cods-comad.in/2019/index.html), [Paper](https://dl.acm.org/citation.cfm?id=3297006)
 - Human Trajectory Prediction using Adversarial Loss, 2019 (from Alahi, conference unknown for now), [Paper](http://www.strc.ch/2019/Kothari_Alahi.pdf)
@@ -46,6 +51,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 - Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty, 2018 CVPR, [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf), [code+data](https://github.com/apratimbhattacharyya18/onboard_long_term_prediction)
 - Encoding Crowd Interaction with Deep Neural Network
   for Pedestrian Trajectory Prediction, 2018 CVPR, [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf), [code](https://github.com/ShanghaiTechCVDL/CIDNN)
+- Scene-LSTM: A Model for Human Trajectory Prediction, 2018 ArXiv, [Paper](https://arxiv.org/pdf/1808.04018.pdf)
 - Bi-prediction: pedestrian trajectory prediction based on bidirectional LSTM classification, 2017 DICTA, [Paper](<https://www.researchgate.net/profile/Du_Huynh/publication/322001876_Bi-Prediction_Pedestrian_Trajectory_Prediction_Based_on_Bidirectional_LSTM_Classification/links/5c03cef4a6fdcc1b8d5029bb/Bi-Prediction-Pedestrian-Trajectory-Prediction-Based-on-Bidirectional-LSTM-Classification.pdf>)
 - Human Trajectory Prediction using Spatially aware Deep Attention Models, 2017 arxiv, [[Paper]](https://arxiv.org/pdf/1705.09436.pdf)
 - Context-Aware Trajectory Prediction, 2017 arxiv, [[Paper]](https://arxiv.org/pdf/1705.02503.pdf)
