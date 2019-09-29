@@ -1,5 +1,5 @@
 # Awesome-Trajectory-Prediction
-![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.09.02-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
+![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.09.29-lightgrey.svg)![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction)
 
 This is a list of useful information about trajectory prediction. Related papers, datasets and codes are included.
 
@@ -20,6 +20,8 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- Social and Scene-Aware Trajectory Prediction in Crowded Spaces, 2019 ICCV Workshop, [Paper](<https://arxiv.org/pdf/1909.08840.pdf>), [Code](<https://github.com/Oghma/sns-lstm/>)
+- Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, 2019 ArXiv, [Paper](<https://arxiv.org/pdf/1909.07507.pdf>)
 - Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM, 2019 ISVC, [Paper](https://arxiv.org/pdf/1908.08908.pdf)
 - SEABIG: A Deep Learning-Based Method for Location Prediction in Pedestrian Semantic Trajectories, 2019 IEEE Access, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8790746)
 - Trajectory Prediction of Mobile Construction Resources Toward Pro-active Struck-by Hazard Detection, 2019 ISARC, [Paper](https://search.proquest.com/openview/f6b42779cd7037405799f86f8ca9e544/1?pq-origsite=gscholar&cbl=1646340&casa_token=KxabXy5827MAAAAA:Kv6jfuGvLfpCRhZb1YlzEB0pgpSFJQPKAG8yEcLUwZk4yVjYWn1iCKR1uesqbnH76XJj6smFh5Q)
