@@ -20,6 +20,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs, 2019 ACM CSCS, [Paper](https://arxiv.org/pdf/1907.08752.pdf), [Code](https://github.com/rohanchandra30/TrackNPred)
 - Social and Scene-Aware Trajectory Prediction in Crowded Spaces, 2019 ICCV Workshop, [Paper](<https://arxiv.org/pdf/1909.08840.pdf>), [Code](<https://github.com/Oghma/sns-lstm/>)
 - Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, 2019 ArXiv, [Paper](<https://arxiv.org/pdf/1909.07507.pdf>)
 - Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM, 2019 ISVC, [Paper](https://arxiv.org/pdf/1908.08908.pdf)
@@ -34,7 +35,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
   with GANs, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf), [Code](<https://github.com/amiryanj/socialways>)
 - Peeking into the Future: Predicting Future Person Activities and Locations in Videos, 2019 CVPR, [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf), [Code](https://github.com/google/next-prediction)
 - Learning to Infer Relations for Future Trajectory Forecast, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)
-- TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>)
+- TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>), [Code](https://github.com/rohanchandra30/TrackNPred)
 - Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>)
 - Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.pdf>)
 - SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>)
@@ -66,6 +67,8 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Vehicle Trajectory Prediction
 
+- RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs, 2019 ACM CSCS, [Paper](https://arxiv.org/pdf/1907.08752.pdf), [Code](https://github.com/rohanchandra30/TrackNPred)
+- TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>), [Code](https://github.com/rohanchandra30/TrackNPred)
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, 2019 CVPR, [Paper](https://arxiv.org/pdf/1812.09395.pdf)
 - Argoverse: 3D Tracking and Forecasting With Rich Maps, 2019 CVPR, [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
 - Robust Aleatoric Modeling for Future Vehicle Localization, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Hudnell_Robust_Aleatoric_Modeling_for_Future_Vehicle_Localization_CVPRW_2019_paper.pdf)
@@ -85,9 +88,4 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 * [Cityscapes](https://www.cityscapes-dataset.com/login/)
 * [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
 * [Argoverse](https://www.argoverse.org/)
-
-
-
-
-
-
+* [TRAF](https://gamma.umd.edu/researchdirections/autonomousdriving/trafdataset)
