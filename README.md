@@ -20,6 +20,8 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- PIE: A Large-Scale Dataset and Models for Pedestrian Intention Estimation and Trajectory Prediction, 2019 ICCV, [Paper](<http://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>)
+- STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction, 2019 ICCV, [Paper](<http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>)
 - RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs, 2019 ACM CSCS, [Paper](https://arxiv.org/pdf/1907.08752.pdf), [Code](https://github.com/rohanchandra30/TrackNPred)
 - Social and Scene-Aware Trajectory Prediction in Crowded Spaces, 2019 ICCV Workshop, [Paper](<https://arxiv.org/pdf/1909.08840.pdf>), [Code](<https://github.com/Oghma/sns-lstm/>)
 - Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, 2019 ArXiv, [Paper](<https://arxiv.org/pdf/1909.07507.pdf>)
