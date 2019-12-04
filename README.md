@@ -24,8 +24,8 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
-- Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, 2019 arXiv, [Paper](https://arxiv.org/pdf/1912.01118.pdf), [Code](https://gamma.umd.edu/researchdirections/autonomousdriving/spectralcows/)
 - Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, 2020 WACV, [Paper](https://arxiv.org/abs/1911.01138)
+- Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, 2019 arXiv, [Paper](https://arxiv.org/pdf/1912.01118.pdf), [Code](https://gamma.umd.edu/researchdirections/autonomousdriving/spectralcows/)
 - PIE: A Large-Scale Dataset and Models for Pedestrian Intention Estimation and Trajectory Prediction, 2019 ICCV, [Paper](<http://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>)
 - STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction, 2019 ICCV, [Paper](<http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>)
 - RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs, 2019 ACM CSCS, [Paper](https://arxiv.org/pdf/1907.08752.pdf), [Code](https://github.com/rohanchandra30/TrackNPred)
@@ -75,15 +75,15 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Vehicle Trajectory Prediction
-- Convolutional Social Pooling for Vehicle Trajectory Prediction [Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf) [code](https://github.com/nachiket92/conv-social-pooling)
 - Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, 2019 arXiv, [Paper](https://arxiv.org/pdf/1912.01118.pdf), [Code](https://gamma.umd.edu/researchdirections/autonomousdriving/spectralcows/)
 - RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs, 2019 ACM CSCS, [Paper](https://arxiv.org/pdf/1907.08752.pdf), [Code](https://github.com/rohanchandra30/TrackNPred)
 - TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, 2019 CVPR, [Paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>), [Code](https://github.com/rohanchandra30/TrackNPred)
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, 2019 CVPR, [Paper](https://arxiv.org/pdf/1812.09395.pdf)
 - Argoverse: 3D Tracking and Forecasting With Rich Maps, 2019 CVPR, [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
 - Robust Aleatoric Modeling for Future Vehicle Localization, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Hudnell_Robust_Aleatoric_Modeling_for_Future_Vehicle_Localization_CVPRW_2019_paper.pdf)
-
+- Convolutional Social Pooling for Vehicle Trajectory Prediction [Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf) [code](https://github.com/nachiket92/conv-social-pooling)
 #### Traffic Prediction
+
 
 - Deep Sequence Learning with Auxiliary Information for Traffic Prediction, 2018 KDD, [Paper](https://arxiv.org/pdf/1806.07380.pdf), [Code](https://github.com/JingqingZ/BaiduTraffic)
 
