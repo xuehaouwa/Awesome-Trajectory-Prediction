@@ -104,5 +104,4 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 * [inD](https://www.ind-dataset.com/)
 * [Lyft Level 5](https://level5.lyft.com/dataset/)
 * [Apolloscape](http://apolloscape.auto/trajectory.html)
-* [Joint Attention in Autonomous Driving](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
 
