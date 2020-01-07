@@ -9,6 +9,10 @@ This is a list of useful information about trajectory prediction. Related papers
 
 Maintainer - Hao Xue
 
+## News
+
+A PyPi package of [trajectory prediction tools](https://github.com/xuehaouwa/Trajectory-Prediction-Tools) is published!
+
 
 ## Contributing
 Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction/pulls) to add new resources.
