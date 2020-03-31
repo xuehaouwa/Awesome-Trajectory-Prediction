@@ -28,6 +28,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction, 2020 CVPR, [Paper](<https://arxiv.org/pdf/2002.11927.pdf>), [Code](<https://github.com/abduallahmohamed/Social-STGCNN/>)
 - The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, 2020 CVPR, [Paper](https://arxiv.org/pdf/1912.06445.pdf), [Code](https://next.cs.cmu.edu/multiverse/index.html)
 - Multiple Futures Prediction, 2019 NeurIPS, [Paper](http://papers.nips.cc/paper/9676-multiple-futures-prediction.pdf)
 - Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, 2020 WACV, [Paper](https://arxiv.org/abs/1911.01138)
