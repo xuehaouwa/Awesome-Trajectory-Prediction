@@ -28,6 +28,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction, 2020, ECCV [Paper](https://arxiv.org/pdf/2007.13078.pdf)
 - SimAug: Learning Robust Representations from 3D Simulation for Pedestrian Trajectory Prediction in Unseen Cameras, 2020 ECCV, [Paper](https://arxiv.org/pdf/2004.02022), [Code](https://github.com/JunweiLiang/Multiverse)
 - Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction, 2020 CVPR, [Paper](<https://arxiv.org/pdf/2002.11927.pdf>), [Code](<https://github.com/abduallahmohamed/Social-STGCNN/>)
 - The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, 2020 CVPR, [Paper](https://arxiv.org/pdf/1912.06445.pdf), [Code](https://next.cs.cmu.edu/multiverse/index.html)
