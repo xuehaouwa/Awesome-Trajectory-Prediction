@@ -28,6 +28,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
+- Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction， ECCV 2020 [Paper](https://arxiv.org/abs/2005.08514), [Code](https://github.com/Majiker/STAR)
 - It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction, ECCV 2020 Oral [Paper](https://arxiv.org/abs/2004.02025), [Code](https://github.com/HarshayuGirase/PECNet), [Homepage](https://karttikeya.github.io/publication/htf/)
 - SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction, 2020, ECCV [Paper](https://arxiv.org/pdf/2007.13078.pdf)
 - SimAug: Learning Robust Representations from 3D Simulation for Pedestrian Trajectory Prediction in Unseen Cameras, 2020 ECCV, [Paper](https://arxiv.org/pdf/2004.02022), [Code](https://github.com/JunweiLiang/Multiverse)
