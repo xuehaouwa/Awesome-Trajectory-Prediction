@@ -27,6 +27,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Trajectory Prediction Related
+- Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction, CVPR 2021 Oral [Paper](https://arxiv.org/abs/2104.08277)
 - Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation, ACCV 2020 Oral [Paper](https://arxiv.org/abs/2010.01114), [code](https://github.com/dendorferpatrick/GoalGAN)
 - Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction， ECCV 2020 [Paper](https://arxiv.org/abs/2005.08514), [Code](https://github.com/Majiker/STAR)
 - Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction, ECCV 2020 [Paper](https://arxiv.org/abs/2008.00777)
