@@ -27,6 +27,8 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Trajectory Prediction Related
+- Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs, ICCV 2021 The ROAD Challenge Workshop, [Paper](<https://arxiv.org/pdf/2109.10257.pdf>), [Code](<https://github.com/abduallahmohamed/Skeleton-Graph>)
+- Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation, ACCV 2020 Oral [Paper](https://arxiv.org/abs/2010.01114), [code](https://github.com/dendorferpatrick/GoalGAN)
 - Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction, CVPR 2021 Oral [Paper](https://arxiv.org/abs/2104.08277)
 - Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation, ACCV 2020 Oral [Paper](https://arxiv.org/abs/2010.01114), [code](https://github.com/dendorferpatrick/GoalGAN)
 - Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction， ECCV 2020 [Paper](https://arxiv.org/abs/2005.08514), [Code](https://github.com/Majiker/STAR)
