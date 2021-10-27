@@ -92,6 +92,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Vehicle Trajectory Prediction
+- PTNet: Physically Feasible Vehicle Trajectory Prediction, NeurIPS ML4AD Workshop, [paper](<https://arxiv.org/abs/2104.14679>) 
 - Injecting Knowledge in Data-driven Vehicle Trajectory Predictors, 2021 Transportation research part C, [Website](https://mohammadhossein-bahari.github.io/RRB/), [Paper](https://arxiv.org/pdf/2103.04854.pdf), [Code](https://github.com/vita-epfl/RRB)
 - Multiple Futures Prediction, 2019 NeurIPS, [Paper](http://papers.nips.cc/paper/9676-multiple-futures-prediction.pdf)
 - Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, 2019 arXiv, [Paper](https://arxiv.org/pdf/1912.01118.pdf), [Code](https://gamma.umd.edu/researchdirections/autonomousdriving/spectralcows/)
