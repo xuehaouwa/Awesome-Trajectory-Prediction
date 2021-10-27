@@ -28,7 +28,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 #### Trajectory Prediction Related
 
-- LOKI: Long Term and Key Intentions for Trajectory Prediction, ICCV 2021 [Paper] (<https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html>)
+- LOKI: Long Term and Key Intentions for Trajectory Prediction, ICCV 2021, [Paper](<https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html>)
 - Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs, ICCV 2021 The ROAD Challenge Workshop, [Paper](<https://arxiv.org/pdf/2109.10257.pdf>), [Code](<https://github.com/abduallahmohamed/Skeleton-Graph>)
 - MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction, ICCV 2021 [Paper](https://arxiv.org/abs/2108.09274), [code](https://github.com/selflein/MG-GAN)
 - Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction, CVPR 2021 Oral [Paper](https://arxiv.org/abs/2104.08277)
