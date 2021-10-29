@@ -106,6 +106,9 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 - Deep Sequence Learning with Auxiliary Information for Traffic Prediction, 2018 KDD, [Paper](https://arxiv.org/pdf/1806.07380.pdf), [Code](https://github.com/JingqingZ/BaiduTraffic)
 
+#### Others
+- MobTCast: Leveraging Auxiliary Trajectory Forecasting for Human Mobility Prediction
+
 ## Datasets
 
 * [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)
