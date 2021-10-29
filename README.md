@@ -27,7 +27,8 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Trajectory Prediction Related
-
+- Y-Net: From goals, waypoints & paths to long term human trajectory forecasting, ICCV 2021, [Paper](<https://openaccess.thecvf.com/content/ICCV2021/html/Mangalam_From_Goals_Waypoints__Paths_to_Long_Term_Human_Trajectory_ICCV_2021_paper.html>), [Code](<https://github.com/HarshayuGirase/Human-Path-Prediction/tree/master/ynet>) 
+- LOKI: Long Term and Key Intentions for Trajectory Prediction, ICCV 2021, [Paper](<https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html>)
 - Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs, ICCV 2021 The ROAD Challenge Workshop, [Paper](<https://arxiv.org/pdf/2109.10257.pdf>), [Code](<https://github.com/abduallahmohamed/Skeleton-Graph>)
 - MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction, ICCV 2021 [Paper](https://arxiv.org/abs/2108.09274), [code](https://github.com/selflein/MG-GAN)
 - Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction, CVPR 2021 Oral [Paper](https://arxiv.org/abs/2104.08277)
@@ -91,6 +92,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Vehicle Trajectory Prediction
+- PTNet: Physically Feasible Vehicle Trajectory Prediction, NeurIPS ML4AD Workshop, [paper](<https://arxiv.org/abs/2104.14679>) 
 - Injecting Knowledge in Data-driven Vehicle Trajectory Predictors, 2021 Transportation research part C, [Website](https://mohammadhossein-bahari.github.io/RRB/), [Paper](https://arxiv.org/pdf/2103.04854.pdf), [Code](https://github.com/vita-epfl/RRB)
 - Multiple Futures Prediction, 2019 NeurIPS, [Paper](http://papers.nips.cc/paper/9676-multiple-futures-prediction.pdf)
 - Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, 2019 arXiv, [Paper](https://arxiv.org/pdf/1912.01118.pdf), [Code](https://gamma.umd.edu/researchdirections/autonomousdriving/spectralcows/)
