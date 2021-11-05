@@ -33,6 +33,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 - MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction, ICCV 2021 [Paper](https://arxiv.org/abs/2108.09274), [code](https://github.com/selflein/MG-GAN)
 - Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction, CVPR 2021 Oral [Paper](https://arxiv.org/abs/2104.08277)
 - Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation, ACCV 2020 Oral [Paper](https://arxiv.org/abs/2010.01114), [code](https://github.com/dendorferpatrick/GoalGAN)
+- Semantic Synthesis of Pedestrian Locomotion, ACCV 2020 [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Priisalu_Semantic_Synthesis_of_Pedestrian_Locomotion_ACCV_2020_paper.html)
 - Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction， ECCV 2020 [Paper](https://arxiv.org/abs/2005.08514), [Code](https://github.com/Majiker/STAR)
 - Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction, ECCV 2020 [Paper](https://arxiv.org/abs/2008.00777)
 - It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction, ECCV 2020 Oral [Paper](https://arxiv.org/abs/2004.02025), [Code](https://github.com/HarshayuGirase/PECNet), [Homepage](https://karttikeya.github.io/publication/htf/)
