@@ -27,6 +27,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Trajectory Prediction Related
+- How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022, [Paper](https://arxiv.org/abs/2203.04781)
 - S-attack library: A library for evaluating trajectory prediction models [Website](<https://s-attack.github.io/>)
     - Vehicle trajectory prediction works, but not everywhere, arXiv 2021, [Paper](<https://arxiv.org/abs/2112.03909>), [Code](<https://github.com/vita-epfl/s-attack>)
     - Are socially-aware trajectory prediction models really socially-aware? arXiv 2021, [Paper](<https://arxiv.org/abs/2108.10879>), [Code](<https://github.com/vita-epfl/s-attack>)
