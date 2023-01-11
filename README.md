@@ -27,10 +27,12 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Trajectory Prediction Related
+
 - How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022, [Paper](https://arxiv.org/abs/2203.04781)
+- Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022, [Paper](<https://arxiv.org/abs/2203.03057>), [Code](<https://github.com/abduallahmohamed/Social-Implicit>)
 - S-attack library: A library for evaluating trajectory prediction models [Website](<https://s-attack.github.io/>)
-    - Vehicle trajectory prediction works, but not everywhere, arXiv 2021, [Paper](<https://arxiv.org/abs/2112.03909>), [Code](<https://github.com/vita-epfl/s-attack>)
-    - Are socially-aware trajectory prediction models really socially-aware? arXiv 2021, [Paper](<https://arxiv.org/abs/2108.10879>), [Code](<https://github.com/vita-epfl/s-attack>)
+- Vehicle trajectory prediction works, but not everywhere, arXiv 2021, [Paper](<https://arxiv.org/abs/2112.03909>), [Code](<https://github.com/vita-epfl/s-attack>)
+- Are socially-aware trajectory prediction models really socially-aware? arXiv 2021, [Paper](<https://arxiv.org/abs/2108.10879>), [Code](<https://github.com/vita-epfl/s-attack>)
 - Y-Net: From goals, waypoints & paths to long term human trajectory forecasting, ICCV 2021, [Paper](<https://openaccess.thecvf.com/content/ICCV2021/html/Mangalam_From_Goals_Waypoints__Paths_to_Long_Term_Human_Trajectory_ICCV_2021_paper.html>), [Code](<https://github.com/HarshayuGirase/Human-Path-Prediction/tree/master/ynet>) 
 - LOKI: Long Term and Key Intentions for Trajectory Prediction, ICCV 2021, [Paper](<https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html>)
 - Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs, ICCV 2021 The ROAD Challenge Workshop, [Paper](<https://arxiv.org/pdf/2109.10257.pdf>), [Code](<https://github.com/abduallahmohamed/Skeleton-Graph>)
@@ -97,6 +99,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Vehicle Trajectory Prediction
+- MPA: MultiPath++ Based Architecture for Motion Prediction, CVPR2022 Workshop on Autonomous Driving, [Paper](https://arxiv.org/pdf/2206.10041.pdf), [Code](https://github.com/stepankonev/waymo-motion-prediction-challenge-2022-multipath-plus-plus)
 - PTNet: Physically Feasible Vehicle Trajectory Prediction, NeurIPS ML4AD Workshop, [paper](<https://arxiv.org/abs/2104.14679>) 
 - Injecting Knowledge in Data-driven Vehicle Trajectory Predictors, 2021 Transportation research part C, [Website](https://mohammadhossein-bahari.github.io/RRB/), [Paper](https://arxiv.org/pdf/2103.04854.pdf), [Code](https://github.com/vita-epfl/RRB)
 - Multiple Futures Prediction, 2019 NeurIPS, [Paper](http://papers.nips.cc/paper/9676-multiple-futures-prediction.pdf)
