@@ -99,6 +99,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Vehicle Trajectory Prediction
+- Motion Transformer with Global Intention Localization and Local Movement Refinement, 2022 NeurIPS, [Paper](https://arxiv.org/pdf/2209.13508.pdf), [Code](https://github.com/sshaoshuai/MTR)
 - MPA: MultiPath++ Based Architecture for Motion Prediction, CVPR2022 Workshop on Autonomous Driving, [Paper](https://arxiv.org/pdf/2206.10041.pdf), [Code](https://github.com/stepankonev/waymo-motion-prediction-challenge-2022-multipath-plus-plus)
 - PTNet: Physically Feasible Vehicle Trajectory Prediction, NeurIPS ML4AD Workshop, [paper](<https://arxiv.org/abs/2104.14679>) 
 - Injecting Knowledge in Data-driven Vehicle Trajectory Predictors, 2021 Transportation research part C, [Website](https://mohammadhossein-bahari.github.io/RRB/), [Paper](https://arxiv.org/pdf/2103.04854.pdf), [Code](https://github.com/vita-epfl/RRB)
