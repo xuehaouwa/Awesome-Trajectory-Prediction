@@ -1,5 +1,5 @@
 # Awesome-Trajectory-Prediction
-![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.11.13-lightgrey.svg) ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.01.13-lightgrey.svg) ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction.svg)](http://hits.dwyl.io/xuehaouwa/Awesome-Trajectory-Prediction) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
